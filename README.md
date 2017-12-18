@@ -1,1 +1,8 @@
-//  simple README file
+Readme file 
+
+#Examples
+
+```
+getPeople()
+//=> ['slavcho', 'zanko']
+```
